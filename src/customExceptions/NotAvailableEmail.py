@@ -1,0 +1,2 @@
+class NotAvailableEmail:
+    pass
